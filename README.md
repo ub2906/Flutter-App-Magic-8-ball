@@ -1,3 +1,3 @@
-# Flutter-Apps
+# Magic 8 ball App
 
-Includes all the apps(challege projects+ code along) made under the course - The Complete 2020 Flutter Development Bootcamp with Dart
+Boss level challenge made under the course - The Complete 2020 Flutter Development Bootcamp with Dart
